@@ -11,4 +11,6 @@
 
 Wow! you found this site! congrats!
 
-Also visit [This site](https://xenohoe.github.io/daffynition/Test1)
+Also visit [This site](https://bit.ly/3FagXzS)
+
+[Click Here](https://xenohoe.github.io/daffynition/Test1) for another test page.
