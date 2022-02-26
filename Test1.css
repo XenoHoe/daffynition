@@ -12,6 +12,7 @@ body{
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
+  background-color:beige
 }
 .inBracket{color: lightgray;}
 .middle{text-align: center}
